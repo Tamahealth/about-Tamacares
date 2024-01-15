@@ -19,7 +19,7 @@ We welcome feedback but no contributions are allowed to the TamaCares project.
 
 ## Support
 
-For support, email admin@tamacares.com or text at +1 415-410-1838 to Nathnael.
+For support, email contact@tamacares.com or text at +1 415-410-1838 to Nathnael.
 
 ## Acknowledgments
 
