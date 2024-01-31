@@ -1,7 +1,7 @@
 # TamaCares
 
 Welcome to the official repository for TamaCares, a project dedicated to simplifying access to healthcare across the United States.
-The link to our web application is [tamacares.com](htttps://www.tamacares.com)
+The link to our web application is [tamacares.com](https://www.tamacares.com)
 
 ## About TamaCares
 
