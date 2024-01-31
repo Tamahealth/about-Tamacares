@@ -1,6 +1,7 @@
 # TamaCares
 
 Welcome to the official repository for TamaCares, a project dedicated to simplifying access to healthcare across the United States.
+The link to our web application is [tamacares.com](htttps://www.tamacares.com)
 
 ## About TamaCares
 
@@ -23,4 +24,4 @@ For support, email contact@tamacares.com or text at +1 415-410-1838 to Nathnael.
 
 ## Acknowledgments
 
-- Thanks to Dr. Yared and Minerva university faculties for their continuous support.
+- Thanks to Dr. Yared and his Company TAMA.
