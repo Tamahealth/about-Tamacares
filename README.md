@@ -20,8 +20,8 @@ We welcome feedback but no contributions are allowed to the TamaCares project.
 
 ## Support
 
-For support, email contact@tamacares.com or text at +1 415-410-1838 to Nathnael.
+For support, email contact@tamacares.com.
 
 ## Acknowledgments
 
-- Thanks to Dr. Yared and his Company TAMA.
+- Thanks to Dr. Yared Endailalu (MD, PhD) and his Company Transatlantic Medical Associates and his team.
